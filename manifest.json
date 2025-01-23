@@ -1,0 +1,11 @@
+{
+    "domain": "govee_openapi",
+    "name": "Govee Lights",
+    "version": "0.1",
+    "documentation": "https://github.com/lowebb/govee_openapi",
+    "requirements": ["aiohttp>=3.8.0"],
+    "iot_class": "cloud_polling",
+    "dependencies": [],
+    "codeowners": ["@lowebb"],
+    "config_flow": true
+}
